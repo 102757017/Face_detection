@@ -1,0 +1,4 @@
+dll的版本必须与本机的python版本匹配，32位的python只能调用32位的dll
+虹软的dll只有一年有效期，超期后引擎会报错，要重新去官网下载dll
+引擎错误代码详见官网API
+https://ai.arcsoft.com.cn/manual/arcface_android_fd.html
